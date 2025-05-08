@@ -102,6 +102,8 @@ theme: anzhiyu
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: git@github.com:kunxz/kunxz.github.io.git
+  branch: main
 
 
